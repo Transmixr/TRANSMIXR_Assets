@@ -24,7 +24,7 @@ Each file in this repository can be accessed directly using the following patter
 https://github.com/Transmixr/TRANSMIXR_Assets/raw/refs/heads/main/<folder>/<subfolder>/<filename>.glb
 ```
 
-### ✅ Example
+### Example
 
 To download the Earth model with 8K textures:
 
